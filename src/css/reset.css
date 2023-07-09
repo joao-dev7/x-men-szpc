@@ -1,0 +1,11 @@
+/*Arquivo para resetar estilos padrão do navagador*/
+/*Arquivo linkado no index*/
+* { /*coloca regra em todos elementos*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
